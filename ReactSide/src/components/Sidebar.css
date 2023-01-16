@@ -1,0 +1,31 @@
+.sidebar-div {
+    width: 106vw;
+    position: realtive;
+    height: 50px;
+    background-color: #084298;
+    /* color: #e32a2a; */
+    padding: 10px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+#anchor-tag {
+    color: #e8e539;
+    text-decoration: none;
+    padding-left: 3%;
+}
+
+#anchor-tag:active {
+    color: rgb(37, 239, 19);
+    
+}
+
+
+#logout-btn {
+    margin-left: 48%;
+    border: none;
+    background-color: #141314; 
+    BORDER-RADIUS: 10PX;
+    color: white;
+   
+}
